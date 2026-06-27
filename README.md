@@ -120,7 +120,7 @@ KnowledgeVerse/
 ---
 
 //LIVE WEBSITE LINK//
-https://akshayan-hub.github.io/Knowledgeverse/
+ https://akshayan-hub.github.io/Knowledgeverse/
 
 ## 🔄 Application Workflow
 
